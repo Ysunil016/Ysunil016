@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ysunil016
 - 👀 I’m interested in Problem Solving and Architecture Modeling
 - 🌱 I’m currently exploring System Design.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> sunil016@yahoo.com
 
 <!---
